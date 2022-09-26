@@ -6,7 +6,7 @@ Runs the app in the development mode.
 
 Test the app
 
-This App is a Authentication environment with ReactJS and firebase, using Email and Password as data required for creating an account, with the reset password option by sending email. You will be able to see the email of the current user displayed on the profile page.
+This App is an Authentication environment with ReactJS and firebase, using Email and Password as data required for creating an account, with the reset password option by sending email. You will be able to see the email of the current user displayed on the profile page.
 
 Router and useContext are used in this SPA, with validation for the inputs. SASS is used for the styling.
 
